@@ -1,0 +1,30 @@
+Problem 1: Square Root Calculation (Easy Level)
+
+Input:
+Enter a number: -16
+
+Output:
+Error: Cannot calculate the square root of a negative number.
+
+---
+
+Problem 2: ATM Withdrawal System (Medium Level)
+
+Input:
+Enter PIN: 1234
+Withdraw Amount: 5000
+
+Output:
+Error: Insufficient balance. Current Balance: 3000
+
+---
+
+Problem 3: University Enrollment System (Hard Level)
+
+Input:
+Enroll in Course: Advanced Java
+Prerequisite: Core Java
+Status: Prerequisite not completed
+
+Output:
+Error: PrerequisiteNotMetException - Complete Core Java before enrolling in Advanced Java.
